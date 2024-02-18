@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-application-skeleton",
+  "version": "1.0.0",
+  "description": "Backend service created using express framework.",
+  "main": "app.js",
+  "scripts": {
+    "start": "npm start ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadir-y/Nodejs-Application-Skeleton.git"
+  },
+  "author": "kadir-y",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kadir-y/Nodejs-Application-Skeleton/issues"
+  },
+  "homepage": "https://github.com/kadir-y/Nodejs-Application-Skeleton#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
